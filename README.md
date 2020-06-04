@@ -1,2 +1,2 @@
 # ml_testbed
-Machine Learning Test Bed
+Machine Learning Algorithms
