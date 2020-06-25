@@ -132,3 +132,6 @@ dmypy.json
 
 # MacOS
 .DS_Store
+
+# Vision data
+Cat_Dog_data/
